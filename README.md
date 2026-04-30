@@ -1,12 +1,12 @@
 <!-- Animated gradient banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,50:6F86FF,100:B16CEA&height=220&section=header&text=Abdul%20Rehman&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=Passionate%20Developer%20from%20Pakistan&descSize=20&descAlignY=60&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,50:6F86FF,100:B16CEA&height=220&section=header&text=Abdul%20Rehman&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=Backend%20Engineer%20%E2%80%A2%20Bahawalpur%2C%20Pakistan&descSize=20&descAlignY=60&animation=twinkling" />
 </p>
 
 <!-- Animated typing intro -->
 <p align="center">
   <a href="https://github.com/abdul-rehman174">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2800&pause=600&color=36BCF7&center=true&vCenter=true&multiline=false&width=700&height=60&lines=Hi+%F0%9F%91%8B+I'm+Abdul+Rehman;%F0%9F%9A%80+Full-Stack+Developer+%7C+Open-Source+Lover;%F0%9F%92%A1+Always+building+something+new;%E2%9C%A8+Welcome+to+my+GitHub+universe!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2800&pause=600&color=36BCF7&center=true&vCenter=true&multiline=false&width=750&height=60&lines=Hi+%F0%9F%91%8B+I'm+Abdul+Rehman;%F0%9F%90%8D+Backend+Engineer+%7C+Python+%E2%80%A2+Django+%E2%80%A2+FastAPI;%E2%9A%99%EF%B8%8F+Building+high-performance+APIs+at+scale;%F0%9F%8F%97%EF%B8%8F+Multi-tenant+architectures+%26+clean+code" alt="Typing SVG" />
   </a>
 </p>
 
@@ -19,23 +19,52 @@
 
 ### 🚀 About Me
 
-- 🔭 I'm currently working on **<!-- TODO: your current project -->**
-- 🌱 I'm currently learning **<!-- TODO: e.g. React, Docker, AI -->**
-- 👯 I'm looking to collaborate on **open-source projects**
-- 💬 Ask me about **<!-- TODO: your strong areas -->**
-- 📫 Reach me at **<!-- TODO: your.email@example.com -->**
-- ⚡ Fun fact: **<!-- TODO: something fun about you -->**
+- 💼 Backend Developer at **Enigmatix Software House** (since July 2024)
+- 🎓 BS Software Engineering at **The Islamia University of Bahawalpur (IUB)** — graduating 2027
+- 🔭 Currently building **TrackForge Enterprise** (custom ERP) and a **Generative AI Content Pipeline**
+- 🌱 Going deeper on **FastAPI, multi-tenant architectures, and DevOps tooling**
+- 👯 Open to collaborating on **open-source backend projects**
+- 💬 Ask me about **Python, Django/DRF, FastAPI, PostgreSQL, REST APIs**
+- 📫 Reach me at **abdulrehmanshafy101@gmail.com**
 
 ---
 
 ### 🌐 Connect with me
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR-HANDLE" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://twitter.com/YOUR-HANDLE" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-  <a href="https://instagram.com/YOUR-HANDLE" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="mailto:YOUR-EMAIL@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/abdul-rehman-67956121b" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:abdulrehmanshafy101@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/abdul-rehman174" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
+
+---
+
+### 🏗️ Featured Projects
+
+<table align="center">
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🏭 TrackForge Enterprise</h4>
+      <p><i>Custom ERP solution</i></p>
+      <p>Engineered a supply-chain engine to manage Purchase Orders, Suppliers, and Inventory — featuring a granular transaction ledger for historical tracking and audits.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white" />
+        <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🎬 Faceless-SaaS</h4>
+      <p><i>Generative AI content pipeline</i></p>
+      <p>Architected an Idea-to-Video automation engine that takes a topic as input and autonomously generates the script, voiceover, and visuals to render a complete video.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white" />
+        <img src="https://img.shields.io/badge/FFmpeg-007808?style=flat&logo=ffmpeg&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
