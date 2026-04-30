@@ -1,13 +1,17 @@
-<!-- Animated gradient banner -->
+<!-- Cinematic neon banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,50:6F86FF,100:B16CEA&height=220&section=header&text=Abdul%20Rehman&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=Backend%20Engineer%20%E2%80%A2%20Bahawalpur%2C%20Pakistan&descSize=20&descAlignY=60&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:08AEEA,25:7E22CE,50:FF1B6B,75:FFB347,100:08AEEA&height=300&section=header&text=ABDUL%20REHMAN&fontSize=95&fontColor=ffffff&fontAlignY=36&desc=%E2%9A%A1%20Backend%20Engineer%20%E2%80%A2%20Bahawalpur%2C%20Pakistan%20%E2%9A%A1&descSize=20&descAlignY=58&animation=fadeIn&stroke=ffffff&strokeWidth=2" />
 </p>
 
-<!-- Animated typing intro -->
+<!-- Glowing animated tagline -->
 <p align="center">
   <a href="https://github.com/abdul-rehman174">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2800&pause=600&color=36BCF7&center=true&vCenter=true&multiline=false&width=750&height=60&lines=Hi+%F0%9F%91%8B+I'm+Abdul+Rehman;%F0%9F%90%8D+Backend+Engineer+%7C+Python+%E2%80%A2+Django+%E2%80%A2+FastAPI;%E2%9A%99%EF%B8%8F+Building+high-performance+APIs+at+scale;%F0%9F%8F%97%EF%B8%8F+Multi-tenant+architectures+%26+clean+code" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=34&duration=2500&pause=700&color=FF1B6B&background=00000000&center=true&vCenter=true&multiline=false&width=900&height=70&lines=%E2%9C%A8+ABDUL+REHMAN+%E2%9C%A8;%F0%9F%90%8D+Python+%E2%80%A2+Django+%E2%80%A2+FastAPI;%E2%9A%99%EF%B8%8F+High-Performance+APIs+at+Scale;%F0%9F%9A%80+Crafting+Multi-Tenant+Architectures" alt="Typing SVG" />
   </a>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3500&pause=1000&color=08AEEA&center=true&vCenter=true&width=720&height=40&lines=%E2%80%9CClean+code+%E2%80%A2+Steady+progress+%E2%80%A2+Clear+communication%E2%80%9D" alt="Tagline" />
 </p>
 
 <p align="center">
@@ -36,35 +40,6 @@
   <a href="mailto:abdulrehmanshafy101@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/abdul-rehman174" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
-
----
-
-### 🏗️ Featured Projects
-
-<table align="center">
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🏭 TrackForge Enterprise</h4>
-      <p><i>Custom ERP solution</i></p>
-      <p>Engineered a supply-chain engine to manage Purchase Orders, Suppliers, and Inventory — featuring a granular transaction ledger for historical tracking and audits.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white" />
-        <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h4>🎬 Faceless-SaaS</h4>
-      <p><i>Generative AI content pipeline</i></p>
-      <p>Architected an Idea-to-Video automation engine that takes a topic as input and autonomously generates the script, voiceover, and visuals to render a complete video.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white" />
-        <img src="https://img.shields.io/badge/FFmpeg-007808?style=flat&logo=ffmpeg&logoColor=white" />
-      </p>
-    </td>
-  </tr>
-</table>
 
 ---
 
