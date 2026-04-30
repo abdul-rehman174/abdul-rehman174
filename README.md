@@ -1,8 +1,13 @@
-<h1 align="center">Hi 👋, I'm Abdul Rehman</h1>
-<h3 align="center">A passionate developer from Pakistan</h3>
-
+<!-- Animated gradient banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+profile!;Always+learning+something+new;Building+cool+things+with+code;Open+source+enthusiast" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,50:6F86FF,100:B16CEA&height=220&section=header&text=Abdul%20Rehman&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=Passionate%20Developer%20from%20Pakistan&descSize=20&descAlignY=60&animation=twinkling" />
+</p>
+
+<!-- Animated typing intro -->
+<p align="center">
+  <a href="https://github.com/abdul-rehman174">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2800&pause=600&color=36BCF7&center=true&vCenter=true&multiline=false&width=700&height=60&lines=Hi+%F0%9F%91%8B+I'm+Abdul+Rehman;%F0%9F%9A%80+Full-Stack+Developer+%7C+Open-Source+Lover;%F0%9F%92%A1+Always+building+something+new;%E2%9C%A8+Welcome+to+my+GitHub+universe!" alt="Typing SVG" />
+  </a>
 </p>
 
 <p align="center">
@@ -34,14 +39,6 @@
 
 ---
 
-### 🛠️ Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,python,java,cpp,git,github,vscode,linux,mongodb,mysql,tailwind&perline=8" />
-</p>
-
----
-
 ### 📊 GitHub Stats
 
 <p align="center">
@@ -55,14 +52,6 @@
 
 ---
 
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abdul-rehman174&theme=tokyonight&no-frame=true&row=1&column=7" />
-</p>
-
----
-
 ### 📈 Contribution Graph
 
 <p align="center">
@@ -70,5 +59,9 @@
 </p>
 
 ---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:B16CEA,50:6F86FF,100:36BCF7&height=120&section=footer" />
+</p>
 
 <p align="center"><i>⭐ From <a href="https://github.com/abdul-rehman174">abdul-rehman174</a> — thanks for visiting!</i></p>
