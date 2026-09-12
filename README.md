@@ -38,7 +38,7 @@ contact:     abdulrehmanshafy101@gmail.com
   <a href="https://linkedin.com/in/abdul-rehman-67956121b" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-7AA2F7?style=for-the-badge&logo=linkedin&logoColor=ffffff&labelColor=1a1b27" /></a>
   <a href="mailto:abdulrehmanshafy101@gmail.com"><img src="https://img.shields.io/badge/Gmail-F7768E?style=for-the-badge&logo=gmail&logoColor=ffffff&labelColor=1a1b27" /></a>
   <a href="https://github.com/abdul-rehman174" target="_blank"><img src="https://img.shields.io/badge/GitHub-BB9AF7?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=1a1b27" /></a>
-  <a href="https://github.com/abdul-rehman174" target="_blank"><img src="https://img.shields.io/badge/Portfolio-7DCFFF?style=for-the-badge&logo=vercel&logoColor=ffffff&labelColor=1a1b27" /></a>
+  <a href="https://madebyabdul.me/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-madebyabdul.me-7DCFFF?style=for-the-badge&logo=vercel&logoColor=ffffff&labelColor=1a1b27" /></a>
 </p>
 
 ---
