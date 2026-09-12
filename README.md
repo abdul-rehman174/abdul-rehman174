@@ -1,71 +1,82 @@
-<!-- Tokyo Night vivid banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,15:F7768E,35:BB9AF7,55:7AA2F7,75:7DCFFF,100:9ECE6A&height=280&section=header&text=Abdul%20Rehman&fontSize=80&fontColor=ffffff&fontAlignY=38&desc=%E2%9C%A8%20backend%20engineer%20%E2%80%A2%20bahawalpur%2C%20pk%20%E2%9C%A8&descSize=20&descAlignY=60&animation=twinkling" />
-</p>
+<div align="center">
 
-<!-- Multi-line colorful typing intro -->
-<p align="center">
-  <a href="https://github.com/abdul-rehman174">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2600&pause=800&color=BB9AF7&background=00000000&center=true&vCenter=true&multiline=false&width=820&height=60&lines=%F0%9F%91%8B+hi%2C+i'm+abdul+%E2%80%94+backend+engineer;%F0%9F%90%8D+python+%C2%B7+django+%C2%B7+fastapi+%C2%B7+postgres;%E2%9A%A1+building+clean%2C+reliable+systems;%F0%9F%9A%80+always+shipping+something+new" alt="Typing SVG" />
-  </a>
-</p>
+<!-- Hero: ASCII portrait (types in row by row) beside the extruded 3D
+     "AR" monogram (wipes in, then rocks on its vertical axis).
+     Widths are chosen so the pair spans the same 735px as the calendar.
+       portrait: make photo   (or: python scripts/make_ascii_svg.py)
+       monogram: python scripts/make_wordmark_svg.py --text AR
+     Everything here is a self-hosted SVG -- no badge services, nothing
+     that can rate-limit. How it works: docs/how-it-works.md -->
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=abdul-rehman174&label=profile%20views&color=BB9AF7&style=for-the-badge&labelColor=1a1b27" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/abdul-rehman174?label=followers&style=for-the-badge&color=7AA2F7&labelColor=1a1b27" alt="followers" />
-  <img src="https://img.shields.io/badge/focus-backend-9ECE6A?style=for-the-badge&labelColor=1a1b27" alt="focus" />
-</p>
+<h3><code>abdul@github ~ $ whoami</code></h3>
 
----
+<table>
+<tr>
+<td valign="top"><img src="./portrait-ascii.svg" width="350" alt="Abdul Rehman, rendered in ASCII" /></td>
+<td valign="top"><img src="./wordmark.svg" width="372" alt="AR — 3D ASCII monogram" /></td>
+</tr>
+</table>
 
-### 💜 about
+<br>
 
-```yaml
-role:        backend developer @ enigmatix software house
-location:    bahawalpur, pakistan
-education:   bs software engineering — iub (graduating 2027)
-working on:  trackforge enterprise (erp) · generative ai content pipeline
-learning:    fastapi internals · multi-tenant patterns · devops
-ask me:      python · django/drf · fastapi · postgresql · rest apis
-contact:     abdulrehmanshafy101@gmail.com
-```
+<img src="./info-card.svg" width="520" alt="Backend developer, Bahawalpur — stack and current work" />
 
----
+<br>
+<br>
 
-### 🛰️ connect
+<!-- Real calendar data, re-scraped and committed daily by
+     .github/workflows/update-profile-art.yml -->
 
-<p align="center">
-  <a href="https://linkedin.com/in/abdul-rehman-67956121b" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-7AA2F7?style=for-the-badge&logo=linkedin&logoColor=ffffff&labelColor=1a1b27" /></a>
-  <a href="mailto:abdulrehmanshafy101@gmail.com"><img src="https://img.shields.io/badge/Gmail-F7768E?style=for-the-badge&logo=gmail&logoColor=ffffff&labelColor=1a1b27" /></a>
-  <a href="https://github.com/abdul-rehman174" target="_blank"><img src="https://img.shields.io/badge/GitHub-BB9AF7?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=1a1b27" /></a>
-  <a href="https://github.com/abdul-rehman174" target="_blank"><img src="https://img.shields.io/badge/Portfolio-7DCFFF?style=for-the-badge&logo=vercel&logoColor=ffffff&labelColor=1a1b27" /></a>
-</p>
+<h3><code>abdul@github ~ $ ./contributions.sh</code></h3>
 
----
+<img src="./contrib-heatmap.svg" width="735" alt="Contribution calendar, refreshed daily" />
 
-### 📊 stats
+<br>
+<br>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdul-rehman174&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=1a1b27&title_color=BB9AF7&text_color=c0caf5&icon_color=F7768E&ring_color=7DCFFF" alt="stats" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdul-rehman174&theme=tokyonight&hide_border=true&background=1a1b27&stroke=BB9AF7&ring=F7768E&fire=7DCFFF&currStreakLabel=BB9AF7&sideLabels=c0caf5&dates=9ECE6A&sideNums=7AA2F7" alt="streak" height="180" />
-</p>
+<h3><code>abdul@github ~ $ ./links.sh</code></h3>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdul-rehman174&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=1a1b27&title_color=BB9AF7&text_color=c0caf5" alt="top langs" />
-</p>
+<p><b>Backend Developer</b> · Python · Django/DRF · FastAPI · PostgreSQL</p>
 
----
+[![Portfolio](https://img.shields.io/badge/Portfolio-madebyabdul.me-0d1117?style=for-the-badge&logo=vercel&logoColor=white)](https://madebyabdul.me)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-abdul--rehman-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abdul-rehman-67956121b)
+[![Email](https://img.shields.io/badge/Email-abdulrehmanshafy101-bb9af7?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdulrehmanshafy101@gmail.com)
 
-### 📈 activity
+</div>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdul-rehman174&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=BB9AF7&line=F7768E&point=7DCFFF&area=true&area_color=BB9AF7" />
-</p>
+<br>
 
----
+## `~ $ ls -l ./work`
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9ECE6A,25:7DCFFF,50:7AA2F7,75:BB9AF7,100:F7768E&height=120&section=footer" />
-</p>
+| Project | What it is | Built with |
+| --- | --- | --- |
+| **[the-portfolio](https://github.com/abdul-rehman174/the-portfolio)** | Personal portfolio, live at [madebyabdul.me](https://madebyabdul.me) | CSS · HTML · JS |
+| **[trackforge_enterprise](https://github.com/abdul-rehman174/trackforge_enterprise)** | ERP system — the main thing I'm building right now | Django 5 · DRF |
+| **[smart-reply-assistant](https://github.com/abdul-rehman174/smart-reply-assistant)** | Paste a message, pick a tone, get replies in your own language. Bring your own free Groq key | HTML · JS · Groq |
+| **[employee-management-system](https://github.com/abdul-rehman174/employee-management-system)** | CLI employee management — OOP, role-based access, CSV-driven | Python |
+| **[ai-excuse-generator](https://github.com/abdul-rehman174/ai-excuse-generator)** | Type or speak a situation, get tailored excuses in your language | HTML · JS · Groq |
+| **[python-mini-projects](https://github.com/abdul-rehman174/python-mini-projects)** | Games, calculators, utilities and OOP exercises, collected | Python |
 
-<p align="center"><sub>✨ thanks for stopping by — <a href="https://github.com/abdul-rehman174">abdul-rehman174</a> ✨</sub></p>
+## `~ $ cat ./about`
+
+Backend developer at Enigmatix Software House in Bahawalpur, finishing a BS in
+Software Engineering at IUB in 2027. I spend most of my time on Django and
+FastAPI services — REST API design, ORM query shapes that don't fall over at
+scale, and Postgres schemas for multi-tenant systems.
+
+Currently working through FastAPI's internals and the DevOps side of shipping:
+containers, CI, and what it actually takes to keep a service up.
+
+Happy to talk about API design, Django ORM, or Postgres modelling — the contact
+badge above reaches me.
+
+<br>
+
+<div align="center">
+<sub>
+Every graphic above is generated from my own data by the scripts in
+<a href="./scripts"><code>scripts/</code></a> — no third-party badge services.
+The calendar refreshes itself daily.
+<a href="./docs/how-it-works.md">How it works →</a>
+</sub>
+</div>

@@ -1,0 +1,16 @@
+{
+  "handle": "abdul@github",
+  "name": "Abdul Rehman",
+  "tagline": "Backend Developer · Bahawalpur, PK",
+  "rows": [
+    ["role",     "Backend Developer @ Enigmatix Software House"],
+    ["study",    "BS Software Engineering — IUB, class of 2027"],
+    ["stack",    "Python · Django/DRF · FastAPI · PostgreSQL"],
+    ["now",      "TrackForge Enterprise (ERP) · GenAI content pipeline"],
+    ["learning", "FastAPI internals · multi-tenant patterns · DevOps"],
+    ["ask me",   "REST API design · Django ORM · Postgres modelling"],
+    ["repos",    "24 shipped — 16 public, 8 private"],
+    ["langs",    "Python · TypeScript · PHP · HTML/CSS"],
+    ["contact",  "abdulrehmanshafy101@gmail.com"]
+  ]
+}
