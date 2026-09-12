@@ -46,20 +46,7 @@ contact:     abdulrehmanshafy101@gmail.com
 ### 📊 stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdul-rehman174&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=1a1b27&title_color=BB9AF7&text_color=c0caf5&icon_color=F7768E&ring_color=7DCFFF" alt="stats" height="180" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdul-rehman174&theme=tokyonight&hide_border=true&background=1a1b27&stroke=BB9AF7&ring=F7768E&fire=7DCFFF&currStreakLabel=BB9AF7&sideLabels=c0caf5&dates=9ECE6A&sideNums=7AA2F7" alt="streak" height="180" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdul-rehman174&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=1a1b27&title_color=BB9AF7&text_color=c0caf5" alt="top langs" />
-</p>
-
----
-
-### 📈 activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdul-rehman174&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=BB9AF7&line=F7768E&point=7DCFFF&area=true&area_color=BB9AF7" />
 </p>
 
 ---
